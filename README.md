@@ -18,16 +18,9 @@ How It's Made:
 
 <p>
 This repostiory is a compilation of completed codewars challenges to improve my JavaScript skills 
-and concept retention.
+and concept retention including: 
 </p>
 
-<h2>
-Lessons Learned:
-</h2>
-
-<p>
-At this time, completed challenges includes:
-</p>
 
 <ul>
     <li>Converting Boolean Strings</li>
@@ -37,6 +30,10 @@ At this time, completed challenges includes:
     <li>Remove String Spaces</li>
     <li>and more...</li>
 </ul>
+
+<h2>
+
+
 
 <h2>
 Examples:
