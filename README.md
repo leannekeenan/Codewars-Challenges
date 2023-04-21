@@ -6,10 +6,7 @@ Users can choose from a variety of coding languages and difficulty levels to sol
 range from simple algorithm problems to complex coding puzzles.
 </p>
 
-<span>
-Link to the project can be found here: <a href="">
-l</a>
-</span>
+
 
 <p align="center">
      <img src="https://pbs.twimg.com/profile_banners/709267872/1660844386/1500x500" alt="codewars logo"/>
