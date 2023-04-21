@@ -1,6 +1,6 @@
-<h1>Codewars Challenges</h1>
+<h1 align="center">Codewars Challenges</h1>
 
-<p>
+<p align="center">
 CodeWars is an online platform that provides programming challenges to developers of all skill levels. 
 Users can choose from a variety of coding languages and difficulty levels to solve challenges, which 
 range from simple algorithm problems to complex coding puzzles.
