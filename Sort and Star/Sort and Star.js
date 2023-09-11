@@ -14,4 +14,8 @@ function twoSort(s) {
       let star = first.split('').join('***')
       
       return star;
-    }
+}
+
+function twoSort(s) {
+  return s.sort()[0].split('').join('***');
+} 
